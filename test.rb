@@ -5,7 +5,7 @@ class Tutorial < Gosu::Window
   def initialize
     super 640, 480
     self.caption = "Tutorial Game"
-    @bg = Gosu::Image.new("app/assets/images/food_kandume_saba.png", :tileable => true)
+    @bg = Gosu::Image.new("app/assets/images/bg_natural_ocean.jpg", :tileable => true)
     @player = Player.new
     @player.warp(320, 240)
   end
