@@ -9,7 +9,7 @@ class Tutorial < Gosu::Window
     @bg = Gosu::Image.new("app/assets/images/bg_natural_ocean.jpg", :tileable => true)
     @player = Player.new
     @player.warp(320, 240)
-    @star_anim = Gosu::Image.load_tiles("app/assets/images/food_kandume_saba.png", 25, 25)
+    @star_anim = Gosu::Image.load_tiles("app/assets/images/food_kandume_saba.png", 38, 38)
     @stars = Array.new
   end
 
