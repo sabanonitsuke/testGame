@@ -1,24 +1,6 @@
-# README
+# 概要
+## 魚を操作して鯖缶を集めよう！
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 今後実装する予定
+## ツナ缶を取ったら巨大化する
+## 集めた缶詰の数を表示する
